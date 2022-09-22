@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.arm .arm_grup{
+    display: flex;   
+    text-align: center;
+    justify-content: center;
+    font-size: 60px;
+    padding : 400px 0;
+}
+.h1 {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.arm .arm_grup h1 a{
+    text-decoration: none;
+    text-decoration-line: none;
+    color: black;
+}
+.arm .arm_grup h1 :hover{
+    text-decoration-line: underline;
+    cursor: pointer;
+    color: #999;
+}
